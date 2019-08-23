@@ -1,10 +1,10 @@
 # Site settings
-title: UW ChemE 512 Methods of Engineering Analysis
+title: UW ChemE 375 Chemical Engineering Computer Skills
 email: ccurtis7 -- AT -- uw.edu
-description: "Applications of mathematics to problems in chemical engineering; vector calculus; properties and methods of solution of first and second order partial differential equations; similarity transforms, separation of variables, LaPlace and Fourier transforms."
-url: "http://uw-cheme512.github.io"
+description: "Use Excel, MatLab, and AspenPlus to solve typical chemical engineering problems. Solve realistic problems and explore alternatives that would be inaccessible for hand calculations. Includes equations of state, chemical equilibrium of simultaneous reactions, phase equilibria, plug flow reactors, heat transfer in 1D, and time-dependent heat transfer."
+url: "http://uw-cheme375.github.io"
 twitter_username: derchadmeister
-github_username:  uw-cheme512
+github_username:  uw-cheme375
 
 
 # Build settings

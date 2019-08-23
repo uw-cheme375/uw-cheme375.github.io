@@ -6,12 +6,12 @@ collection: main
 
 ## Course Description
 
-Applications of mathematics to problems in chemical engineering; vector calculus; properties and methods of solution of first and second order partial differential equations; similarity transforms, separation of variables, Laplace and Fourier transforms.
+Use Excel, MatLab, and AspenPlus to solve typical chemical engineering problems. Solve realistic problems and explore alternatives that would be inaccessible for hand calculations. Includes equations of state, chemical equilibrium of simultaneous reactions, phase equilibria, plug flow reactors, heat transfer in 1D, and time-dependent heat transfer.
 
 ## Instructors
 
 - Prof. Chad Curtis (ccurtis7@uw.edu)
-- Prof. Fran&#231;ois Baneyx (baneyx@uw.edu)
+- Prof. Jim Pfaendtner (pfaendt@uw.edu)
 
 ## Teaching Assistants
 
@@ -19,15 +19,15 @@ Applications of mathematics to problems in chemical engineering; vector calculus
 
 ## Teaching Logistics
 
-- Lectures: M/W/Th/F 11:30-12:20 (BNS 203)
+- TBD
 
 ## Course Objectives
 
-1. Express physical phenomena (e.g. heat, mass, momentum transfer) as mathematical models.
-2. Classify ordinary and partial differential equations (e.g. homogeneity, order, and linearity).
-3. Visualize behavior of ordinary and partial differential equations without performing a complete solution.
-4. Implement analytical solutions of ordinary and partial differential equations using both exact and approximate methods.
-5. Implement numerical solutions of ordinary and partial differential equations using the finite difference method.
+1. TBD
+2. TBD
+3. TBD
+4. TBD
+5. TBD
 
 ## Software Requirements
 
