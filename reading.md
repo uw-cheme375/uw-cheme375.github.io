@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Reading
 collection: main
@@ -22,4 +22,4 @@ A rough break-down of the quarter will be matrices and ODEs prior to the first e
 
 # Additional Materials
 
-A useful resource for several topics covered in the course are [Paul's Online Notes](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx). They do **not** include all course material, so do not solely rely on them.
+A useful resource for several topics covered in the course are [Paul's Online Notes](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx). They do **not** include all course material, so do not solely rely on them. -->
