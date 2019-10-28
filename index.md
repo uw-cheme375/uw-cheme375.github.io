@@ -6,7 +6,7 @@ collection: main
 
 ## Course Description
 
-Use Excel, MatLab, and AspenPlus to solve typical chemical engineering problems. Solve realistic problems and explore alternatives that would be inaccessible for hand calculations. Includes equations of state, chemical equilibrium of simultaneous reactions, phase equilibria, plug flow reactors, heat transfer in 1D, and time-dependent heat transfer.
+Use Excel, Python, and AspenPlus to solve typical chemical engineering problems. Solve realistic problems and explore alternatives that would be inaccessible for hand calculations. Includes equations of state, chemical equilibrium of simultaneous reactions, phase equilibria, plug flow reactors, heat transfer in 1D, and time-dependent heat transfer.
 
 ## Instructors
 
