@@ -19,8 +19,8 @@ collection: main
 | 7    | Classes and Linear Equations  |       | HW7         |
 | 8    | Integrals and Interpolation   |       | HW8         |
 | 9    | Differential Equations        |       | HW9         |
-|      | **AspenPlus **                |       |             |
-| 10   | Aspen                         |       | HW10        |
+|      | **AspenPlus**                 |       |             |
+| 10   | Aspen                         |       | [HW10](https://classroom.github.com/a/VpciPCDY) |
 
 \* All reports are due electronically by midnight on the specified date.
 
