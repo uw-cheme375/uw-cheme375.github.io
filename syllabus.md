@@ -13,8 +13,8 @@ collection: main
 | 2    | Solutions to Equations        |       | HW2         |
 | 3    | Curve fitting / Numerical ODEs |      | HW3         |
 | 4    | Functions and Macros          |       | HW4         |
-|      | **Programming with Python**   |       |             |       
-| 5    | Functions and Conditionals    |       | HW5         |    
+|      | **Programming with Python**   | [Intro](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=472cbdec-7acc-46c0-969e-ab0a015456ce)      |             |       
+| 5    | Functions and Conditionals    | [V1](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87d3c6eb-5778-41c3-962c-ab0a015c0190) [V2](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=744feb80-d786-4a2a-84ff-ab0b011315f0) [V3](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27936d20-6371-48fb-ad8f-ab0a012de38d) [V4](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d7f135c-eee6-4f68-b1f6-ab0b0118c312)      | [HW5](https://classroom.github.com/a/vBEh2-oc)         |    
 | 6    | Arrays and Loops              |       | HW6         |     
 | 7    | Classes and Linear Equations  |       | HW7         |
 | 8    | Integrals and Interpolation   |       | HW8         |
