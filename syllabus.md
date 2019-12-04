@@ -25,3 +25,8 @@ collection: main
 \* All reports are due electronically by midnight on the specified date.
 
 ## Final Exam
+
+The final exam is scheduled for
+
+* **Monday March 16 6:30-8:20 pm in Benson 115 for Section A**
+* **Thursday March 19 6:30-8:20 pm in Savery 138 for Section B** 
