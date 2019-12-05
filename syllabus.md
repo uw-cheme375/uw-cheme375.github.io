@@ -20,7 +20,7 @@ collection: main
 | 8    | Systems of Equations and Integrals | [V1](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57a5c200-fc68-47ea-8b3b-ab0c01737904) [V2](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a9d71a5-ab64-4c16-9700-ab0c01789f87) [V3](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=652a8a0d-4cf6-4173-a65b-ab0c017eb23a)      | [HW8](https://classroom.github.com/a/FjwJN1-W)         |
 | 9    | Interpolation and Differential Equations | [V1](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe5b1b71-0e09-4eec-bd35-ab0c01896e54) [V2](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a9a25d2-4979-4cd6-a74b-ab0d000558ec) [V3](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab845163-915d-4482-87e7-ab0d010cf046) [V4](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e318939-f191-4025-a3eb-ab0d0113e2c9) [V5](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a484ed3-b2f5-4bc1-8538-ab0d011b0735)     | [HW9](https://classroom.github.com/a/A5PAICio)         |
 |      | **AspenPlus**                 |       |             |
-| 10   | Aspen                         |       | [HW10](https://classroom.github.com/a/VpciPCDY) |
+| 10   | Aspen                         | [V1](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e6be496-8a0a-4e1e-954f-ab1a01016a6c) [V2](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68528908-5ae1-4723-8c44-ab1a010c33fb)      | [HW10](https://classroom.github.com/a/VpciPCDY) |
 
 \* All reports are due electronically by midnight on the specified date.
 
@@ -29,4 +29,4 @@ collection: main
 The final exam is scheduled for
 
 * **Monday March 16 6:30-8:20 pm in Benson 115 for Section A**
-* **Thursday March 19 6:30-8:20 pm in Savery 138 for Section B** 
+* **Thursday March 19 6:30-8:20 pm in Savery 138 for Section B**
