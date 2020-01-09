@@ -33,4 +33,8 @@ With the exception of pre-arrangement with the instructor in extenuating circums
 
 ## Exams
 
-Students will be allowed one 8 1/2" by 11" page of notes front and back. **No textbooks will be allowed**. Calculators will not be necessary.
+The final exam will be a take-home exam. It will be available for a 24-h period on *Tuesday March 17th* starting at midnight to midnight the following day. It will be administered following the honor system. The following must be abided by while taking the final exam:
+
+* No communication with classmates or others about exam material.
+* Students may use personal notes taken in class and all previous homeworks as a reference during the exam. *Students may not access class videos during the exam.*
+* Students may use Excel, Python, and Aspen to solve problems on the exam. A browser may be used to access GitHub to download and submit the exam. *No other websites are allowed*.
