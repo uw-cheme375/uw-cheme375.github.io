@@ -11,12 +11,12 @@ Use Excel, Python, and AspenPlus to solve typical chemical engineering problems.
 ## Instructors
 
 - Prof. Chad Curtis (ccurtis7@uw.edu)
-* Office Hours: TBD
+* Office Hours: By appointment, contact me over Slack
 
 ## Teaching Assistants
 
 - Sawyer Morgan (semorgan@uw.edu)
-* Office Hours: TBD
+* Office Hours: M 3:00 (location TBD)
 
 ## Teaching Logistics
 
