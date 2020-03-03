@@ -31,3 +31,5 @@ Homework due dates are as follows:
 * Regrade feedback: the following Friday
 
 All homeworks except HW10 can be submitted for regrades.
+
+The **final exam** is a take-home exam, and is scheduled for Tuesday, March 17th. Please look at the [grading](https://uw-cheme375.github.io/grading.html) page for more details.
