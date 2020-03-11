@@ -33,12 +33,9 @@ With the exception of pre-arrangement with the instructor in extenuating circums
 
 ## Exams
 
-The final exam consists of problems to be solved using Excel, Python and Aspen. The exam is a take-home exam and should be completed outside of class. You will have 24 hours to complete the exam from Tuesday, March 17 9:00 AM to Wednesday, March 18 9:00 AM (but the exam should by no means require 24 hours to complete!).
+The final exam consists of problems to be solved using Excel, Python and Aspen. The exam is a take-home exam and should be completed outside of class. You will have 24 hours to complete the exam from *Wednesday, March 18 11:00 AM to Thursday, March 19 11:00 AM (but the exam should by no means require 24 hours to complete!).
 
-You may use all course materials to complete the exam, including recorded lectures, homeworks, and notes you may have taken. You are also free to use Google and Stack Overflow for help as well. The exam is essentially open-everything **except** open neighbor. Do **not** communicate with classmates, whether by phone, email, social media, or in-person, or otherwise. You will be required to initial an honor statement at the end of the exam certifying you have abided by these rules.
-
-
-The final exam will be a take-home exam. It will be available for a 24-h period on *Tuesday March 17th* starting at 9:00 AM to 9:00 AM the following day (Wednesday). It will be administered following the honor system. The following must be abided by while taking the final exam:
+You may use all course materials to complete the exam, including recorded lectures, homeworks, and notes you may have taken. You are also free to use Google and Stack Overflow for help as well. The exam is essentially open-everything **except** open neighbor. Do **not** communicate with classmates, whether by phone, email, social media, or in-person, or otherwise. You will be required to initial an honor statement at the end of the exam certifying you have abided by these rules. The following must be abided by while taking the final exam:
 
 * No communication with classmates or others about exam material.
 * Students may use personal notes taken in class and all previous homeworks as a reference during the exam. *Students may not access class videos during the exam.*
