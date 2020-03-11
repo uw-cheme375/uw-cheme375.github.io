@@ -33,7 +33,7 @@ With the exception of pre-arrangement with the instructor in extenuating circums
 
 ## Exams
 
-The final exam consists of problems to be solved using Excel, Python and Aspen. The exam is a take-home exam and should be completed outside of class. You will have 24 hours to complete the exam from *Wednesday, March 18 11:00 AM to Thursday, March 19 11:00 AM (but the exam should by no means require 24 hours to complete!).
+The final exam consists of problems to be solved using Excel, Python and Aspen. The exam is a take-home exam and should be completed outside of class. You will have 24 hours to complete the exam from *Wednesday, March 18 11:00 AM* to *Thursday, March 19 11:00 AM* (but the exam should by no means require 24 hours to complete!).
 
 You may use all course materials to complete the exam, including recorded lectures, homeworks, and notes you may have taken. You are also free to use Google and Stack Overflow for help as well. The exam is essentially open-everything **except** open neighbor. Do **not** communicate with classmates, whether by phone, email, social media, or in-person, or otherwise. You will be required to initial an honor statement at the end of the exam certifying you have abided by these rules. The following must be abided by while taking the final exam:
 
