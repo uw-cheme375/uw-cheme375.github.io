@@ -37,6 +37,5 @@ The final exam consists of problems to be solved using Excel, Python and Aspen. 
 
 You may use all course materials to complete the exam, including recorded lectures, homeworks, and notes you may have taken. You are also free to use Google and Stack Overflow for help as well. The exam is essentially open-everything **except** open neighbor. Do **not** communicate with classmates, whether by phone, email, social media, or in-person, or otherwise. You will be required to initial an honor statement at the end of the exam certifying you have abided by these rules. The following must be abided by while taking the final exam:
 
-* No communication with classmates or others about exam material.
-* Students may use personal notes taken in class and all previous homeworks as a reference during the exam. *Students may not access class videos during the exam.*
-* Students may use Excel, Python, and Aspen to solve problems on the exam. A browser may be used to access GitHub to download and submit the exam. *No other websites are allowed*.
+* No communication with classmates, professors, or any other beings living or dead about exam material.
+* Students may use personal notes taken in class and all previous homeworks as a reference during the exam. Students may also access recorded lecture videos, and use websites such as Stack Overflow to help troubleshoot.
